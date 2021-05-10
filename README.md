@@ -60,3 +60,7 @@ Another thing which will help you while building RESTful APIs is that query base
 # Summary
 
 This introduced us the Representational State Transfer (REST) architectural style for distributed hypermedia systems. REST provides a set of architectural constraints that, when applied as a whole, emphasizes scalability of component interactions, generality of interfaces, independent deployment of components, and intermediary components to reduce interaction latency, enforce security, and encapsulate legacy systems. I described the software engineering principles guiding REST and the interaction constraints chosen to retain those principles, while contrasting them to the constraints of other architectural styles.
+
+# References
+
+https://en.wikipedia.org/wiki/Representational_state_transfer
