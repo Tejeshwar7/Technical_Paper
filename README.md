@@ -64,3 +64,5 @@ This introduced us the Representational State Transfer (REST) architectural styl
 # References
 
 https://en.wikipedia.org/wiki/Representational_state_transfer
+
+https://www.service-architecture.com/articles/web-services/representational-state-transfer-rest.html
