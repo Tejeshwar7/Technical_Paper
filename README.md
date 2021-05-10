@@ -26,6 +26,7 @@ The design rationale behind the Web architecture can be described by an architec
 <br>
 <br>
 <br>
+
 # REST Architectural Elements
 
 1. **Data Elements** –Unlike the distributed object style , where all data is encapsulated within and hidden by the processing components, the nature and state of an architecture's data elements is a key aspect of REST. The rationale for this design can be seen in the nature of distributed hypermedia. When a link is selected, information needs to be moved from the location where it is stored to the location where it will be used by, in most cases, a human reader. This is unlike many other distributed processing paradigms [6, 50], where it is possible, and usually more efficient, to move the "processing agent" (e.g., mobile code, stored procedure, search expression, etc.) to the data rather than move the data to the processor.
